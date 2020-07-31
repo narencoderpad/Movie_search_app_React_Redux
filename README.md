@@ -1,16 +1,16 @@
-Learn [react]  (https://reactjs.org/docs/getting-started.html )
+Learn [react](https://reactjs.org/docs/getting-started.html )
 
-Learn react [AJAX and APIs]  (https://reactjs.org/docs/faq-ajax.html)
+Learn react [AJAX and APIs](https://reactjs.org/docs/faq-ajax.html)
 
-Learn [redux]  (https://redux.js.org/introduction/getting-started)
+Learn [redux](https://redux.js.org/introduction/getting-started)
 
-Learn redux [Store]  (https://redux.js.org/basics/store)
+Learn redux [Store](https://redux.js.org/basics/store)
 
-Learn redux [actions]  (https://redux.js.org/basics/actions)
+Learn redux [actions](https://redux.js.org/basics/actions)
 
-Learn redux [reducers]  (https://redux.js.org/basics/reducers)
+Learn redux [reducers](https://redux.js.org/basics/reducers)
 
-Learn [Redux with React]  (https://redux.js.org/basics/usage-with-react)
+Learn [Redux with React](https://redux.js.org/basics/usage-with-react)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
